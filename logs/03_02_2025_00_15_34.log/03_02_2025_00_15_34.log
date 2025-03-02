@@ -1,0 +1,4 @@
+[ 2025-03-02 00:15:34,459 ] 31 root - INFO - \u2705 Model loaded successfully!
+[ 2025-03-02 00:15:34,459 ] 51 root - INFO - \U0001f680 Processing input data...
+[ 2025-03-02 00:15:34,459 ] 71 root - ERROR - \u274c Error during prediction: 'DataTransformation' object has no attribute 'data_cleaning'
+[ 2025-03-02 00:15:34,459 ] 53 root - ERROR - \u274c Prediction failed

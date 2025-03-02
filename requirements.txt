@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn==1.6.1
+seaborn
+matplotlib
+pymongo
+bs4
+pymysql
+fastapi
